@@ -1,18 +1,17 @@
 - 指南
-- 基础操作	
-	- [软件安装](软件安装.md)
-	- [登陆系统](登陆系统.md)
-	- [人员类别设置](人员类别设置.md)
-	- [会议信息](会议信息.md)
-	- [Troubleshooting](/troubleshooting)
-- Advanced
-  - [Advanced Tips](/advanced-tips)
-  - [Advanced Configs](/advanced-configs)
-  - [Command Line Options](/command-line-options)
-- <a style="display:inline;border-right-style:none;" href="/pro">PRO</a> <sup style="color:red;">NEW!</sup>
-- [Beta for Mac](/mac-beta)
-- More
-  - [Official Site](https://snipaste.com)
-  - [Download](/download)
-  - [Translation](/translation)
-  - [Changelog](/changelog)
+	- [公司介绍](mddocs/公司介绍.md)
+	- [签到方式](mddocs/签到方式.md)
+- 信息发送
+	- [短信群发](mddocs/短信群发.md)
+	- [邮件群发](mddocs/邮件群发.md)
+- 下载试用
+	- [试用版下载](mddocs/试用版下载.md)	
+- 高级
+  - [手持机签到](mddocs/手持机签到.md)
+  - [小程序签到](mddocs/小程序签到.md)	
+  - [胸卡打印](mddocs/胸卡打印.md)
+  - [设备租用](mddocs/设备租用.md)
+- [版本区别](mddocs/版本区别.md)	
+- [现场照片](mddocs/现场照片.md)	
+- [更新日志](mddocs/更新日志.md)
+- <a style="display:inline;border-right-style:none;" href="http://www.yuekesoft.com/" target="_blank">越客官网</a>
