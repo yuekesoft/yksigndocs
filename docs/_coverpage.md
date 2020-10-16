@@ -1,12 +1,7 @@
-![logo](_media/icon.svg)
+![logo](../images/yklogo.png)
 
-# docsify
+# 越客会议签到管理系统
 
-> A magical documentation site generator.
+* 越客软件-专业的会务签到方案提供商.
 
-* Simple and lightweight (~12kb gzipped)
-* Multiple themes
-* Not build static html files
-
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#quick-start)
+[开始了解](README.md)
